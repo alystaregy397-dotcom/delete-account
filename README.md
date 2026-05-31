@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Delete Account - YourAppName</title>
+  <title>Delete Account - 3ala Gamb</title>
 </head>
 <body>
   <h1>Delete Your Account</h1>
